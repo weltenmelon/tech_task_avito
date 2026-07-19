@@ -54,5 +54,4 @@ service/
 *.pdf
 *.docx
 *.zip
-*.txt
 *.xlsx
